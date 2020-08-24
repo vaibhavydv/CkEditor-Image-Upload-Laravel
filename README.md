@@ -1,5 +1,9 @@
 # CK EDITOR Image Upload by Vaibhav
 
+# Demo Video
+
+https://www.loom.com/share/03ba5b66789544599cfffe5a69127ff9
+
 # Controllar  
 
 ```
