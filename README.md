@@ -20,6 +20,15 @@ Route::post('ckeditor/upload', 'CkeditorController@upload')->name('ckeditor.uplo
 ```
 
 
+
+
+# Donation
+
+
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+https://pmny.in/zIbq5g6awm3n
+
 Credit 
 
 Vaibhav Yadav
